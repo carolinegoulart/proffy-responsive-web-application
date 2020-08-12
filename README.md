@@ -28,7 +28,7 @@
 
 <div align="center">
   <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/carolinegoulart">Rafael Goulart</a> and
+    <a href="https://github.com/carolinegoulart">Caroline Goulart</a> and
     <a href="https://github.com/carolinegoulart/proffy-web-and-mobile-application/graphs/contributors">
       contributors
     </a>
@@ -137,7 +137,7 @@ Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/deta
 
 # :bug: Problemas
 
-Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [Proffy](https://github.com/RafaelGoulartB/Proffy/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
+Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [Proffy](https://github.com/carolinegoulart/proffy-web-and-mobile-application/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
 
 # :tada: Contribuindo
 
