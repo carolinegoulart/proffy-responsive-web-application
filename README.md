@@ -15,28 +15,19 @@
   </a>
 </p>
 
-> :rocket: This project has been made to connect teachers to students, made in the bootcamp Next Level Week #2 @Rocketseat
+> :rocket: This project has been developed in the bootcamp NextLevelWeek #2 by @Rocketseat.
 
-<div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/carolinegoulart/">Caroline Goulart</a> and
-    <a href="https://github.com/carolinegoulart/proffy-web-and-mobile-application/graphs/contributors">
-      contributors
-    </a>
-  </sub>
-</div>
 
-# :pushpin: Table of Contents
+# :pushpin:  Table of Contents
 
 * [Demo Website](#eyes-demo-website)   
 * [Technologies](#computer-technologies)
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
 * [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
 * [License](#closed_book-license)
 
-<h2 align="left"> 📥 Layout </h2>
+<h2 align="left"> 📥  Layout </h2>
 
 ### Web Screenshot
 <div>
@@ -77,7 +68,7 @@ This project was made using the follow technologies:
 # Clone Repository
 $ git clone https://github.com/carolinegoulart/proffy-web-and-mobile-application.git
 ```
-### 📦 Run API
+### 📦  Running the API
 
 ```bash
 # Go to server folder
@@ -91,7 +82,7 @@ $ yarn start
 ```
 Access API at http://localhost:3333/
 
-### 💻 Run Web Project
+### 💻  Running the Web Project
 
 ```bash
 # Go to web folder
@@ -105,7 +96,7 @@ $ yarn start
 ```
 Go to http://localhost:3000/ to see the result.
 
-### 📱 Run Mobile Project
+### 📱  Running the Mobile Project
 To run the mobile project you need a cellphone with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instaled or a emulator android/ios.
 <br />
 After, fork this repository and clone to your machine. Inside of the project's folder run the following commands:
@@ -127,10 +118,6 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 
 Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/carolinegoulart/proffy-web-and-mobile-application/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-# :tada: Contributing
-
-Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
-
 # :closed_book: License
 
 Released in 2020 :closed_book: License
@@ -139,4 +126,4 @@ Made with love by [Caroline Goulart](https://github.com/carolinegoulart) 🚀.
 This project is under the [MIT license](./LICENSE).
 
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️  if this project helped you!
