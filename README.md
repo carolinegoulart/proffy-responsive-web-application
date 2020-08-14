@@ -16,9 +16,7 @@
 </p>
 
 > :rocket:  This project has been developed in the bootcamp NextLevelWeek #2 by @Rocketseat.
-<p align="center"> 
-### In development
-</p>
+<h2 align="center"> In development </h2>
 
 
 # :pushpin:  Table of Contents
