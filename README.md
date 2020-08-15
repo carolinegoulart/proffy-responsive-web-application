@@ -16,9 +16,7 @@
 </p>
 
 > :rocket:  This project has been developed in the bootcamp NextLevelWeek #2 by @Rocketseat.
-<p align="center"> 
-### In development
-</p>
+<h2 align="center"> In development </h2>
 
 
 # :pushpin:  Table of Contents
@@ -47,8 +45,7 @@ This project was made using the follow technologies:
 
 # :rocket: Features
 
-* Website to sign up teachers and students.
-* App to connect teachers and students.
+* Responsive educational platform to connect teachers to students.
 
 # :construction_worker: How to run
 ```bash
